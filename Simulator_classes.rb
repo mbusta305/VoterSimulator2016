@@ -1,7 +1,5 @@
-
-#My Voter Worl
 # My Voter World
-#comment
+
 
 class VoterSim
 	attr_accessor :id, :name, :political_views, :political_party
